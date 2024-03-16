@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Четвергова М.В.
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chetvergova Maria
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Мария
+last_name: Четвергова
 
 # Status emoji
 status:
@@ -17,34 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студентка НПИбд-02-23
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский университет дружбы народов
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Меня зовут Мария, мне 18 лет. Я родилась и выросла в городе Большой Камень в Приморском крае. Увлекаюсь изучением математики, макраме и шаманскими танцами.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Математика
+  - Программирование
+  - Выполнение лабораторных работ по архитектуре ЭВМ
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Прикладная информатика, ФФМиЕН
+      institution: RUDN University
+      year: 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +114,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Добро пожаловать! Меня зовут Мария, я студентка первого курса направления "Прикладная информатика" РУДН. 
+Увлекаюсь математикой и программилованием. Мне нравится играть в настольные игры и изучать математику. 
+В свободное время я гуляю на свежем воздухе или общаюсь с родными.
 {style="text-align: justify;"}
