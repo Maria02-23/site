@@ -41,44 +41,22 @@ education:
       year: 2024
 
 # Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+
+* решение сложных интегралов
+* построение графиков функции при помощи апельсиновой кожуры и губной гармошки
+* профессионально программирую на языке "Черепаха"
+
+# Experience
+
+* стажировка в таких крупных компаниях как Bolliwood Films и WWF
+* 3 месяца работы в качестве senior-разработчика в Google.
+
+# Accomplishments
+
+* 3 место в школьном конкурсе чтецов на тему "Россия - гроомкое слово" за 10 класс
+* 2 место в городском соревновании по скоростному вязанию крючком в 2019 году 
+* всеобщее признание
+* Закончила школу на пятёрки, но без красного аттестата.
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
