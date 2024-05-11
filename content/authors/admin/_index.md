@@ -40,6 +40,18 @@ education:
       institution: RUDN University
       year: 2024
 
+#Important links
+
+* лич каб на eLIBRARY: https://www.elibrary.ru/project_user_office.asp
+* лич каб на Github: https://github.com/Maria02-23
+* arxiv: https://arxiv.org/user
+* Academiahttps://www.academia.edu
+* mendeley: https://www.mendeley.com/
+* ORCID: https://orcid.org
+* Google Scholar : https://scholar.google.com
+* ResearchGate : https://www.researchgate.net
+
+
 # Skills
 
 * решение сложных интегралов
@@ -53,40 +65,20 @@ education:
 
 # Accomplishments
 
-* 3 место в школьном конкурсе чтецов на тему "Россия - гроомкое слово" за 10 класс
+* 3 место в школьном конкурсе чтецов на тему "Россия - громкое слово" за 10 класс
 * 2 место в городском соревновании по скоростному вязанию крючком в 2019 году 
 * всеобщее признание
 * Закончила школу на пятёрки, но без красного аттестата.
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+# Personal Projects
+
+* сайт-визитка с полной информацией обо мне как о авторе и персоне
+
+* познавательный канал на YouTube с разбором лабораторных работ по архитектуре ЭВМ
+
+* статья на тему "Подчиняется ли искусство правилам?"
+
+* статьи на сайте "Habr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
